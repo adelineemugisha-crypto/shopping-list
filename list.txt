@@ -1,3 +1,13 @@
+
+Soaps
+Detergent
+Toilet papers
+Bloom
+Mop
+Shower gel
+Shampoo
+tower
+
 spoons
 forks
 meat
@@ -18,4 +28,4 @@ Chocolate
 Crisps
 Mandazi
 Cake
-Sweet
+Sweeet
