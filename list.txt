@@ -1,3 +1,4 @@
+
 Soaps
 Detergent
 Toilet papers
@@ -6,3 +7,25 @@ Mop
 Shower gel
 Shampoo
 tower
+
+spoons
+forks
+meat
+Rice
+Cooking oil
+Mayonnaise
+Venegar
+Cabbages
+Tomatoes
+Spagetti
+Beans
+pringles
+biscuits
+bread
+Oreo
+Winnaz
+Chocolate
+Crisps
+Mandazi
+Cake
+Sweeet
